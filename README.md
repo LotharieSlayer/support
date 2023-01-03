@@ -1,2 +1,2 @@
 # support
-Support plugin for WTPBOT
+Support plugin for WTPBot
